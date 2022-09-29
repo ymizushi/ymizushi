@@ -1,4 +1,4 @@
-- [Medium](https://medium.com]/@ymizushi)
+- [Medium](https://medium.com/@ymizushi)
 - [twitter](https://twitter.com/ymizushi)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
